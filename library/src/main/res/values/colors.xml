@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="_xpopup_list_divider">#cccccc</color>
+    <color name="_xpopup_title_color">#111111</color>
+    <color name="_xpopup_content_color">#333333</color>
+
+    <color name="loading_start_color">#067eef</color>
+    <color name="loading_end_color">#99bdf4</color>
+
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+</resources>
